@@ -1,0 +1,9 @@
+# Pawn
+
+<h2><strong>Pawn Class</strong></h2>
+<p>In Unreal Engine, a Pawn Class is a blueprint class that represents a game object that can be controlled by a player or AI. A pawn is typically a character or vehicle that can move and interact with the game world.</p>
+<p>Like an Actor Class, a Pawn Class in blueprints is created by adding components to the pawn that define its functionality and behavior. Components can be added in the Components tab of the Blueprint Editor and can include things like a Mesh Component for a visual representation of the pawn, a Character Movement Component for player movement, or a Physics Component for simulating physical interactions.</p>
+<p>In addition to components, a Pawn Class in blueprints can have its own variables and functions that can be used to manipulate its behavior and attributes. Variables can be created in the Variables tab of the Blueprint Editor and can be of different types, such as integers, floats, booleans, or object references. Functions can be created in the Event Graph tab of the Blueprint Editor and can be used to define custom behavior for the pawn.</p>
+<p>One of the key features of a Pawn Class is that it can be possessed by a player or AI controller, allowing it to be controlled and manipulated during gameplay. A controller can send input to the pawn, which can then be used to perform specific actions or trigger events.</p>
+<p>Overall, a Pawn Class in blueprints is a versatile tool that enables game developers to create complex game objects that can be controlled and manipulated during gameplay. It is a fundamental building block of any Unreal Engine game and can be used to create a wide range of gameplay mechanics and interactions.</p>
+<p title="Click to listen" data-speechify-highlight="true" data-speechify-no-background="true">&nbsp;</p>
