@@ -1,0 +1,8 @@
+# Game Mode
+
+<h2><strong>Game Mode Class</strong></h2>
+<p>In Unreal Engine, a Game Mode Class is a blueprint class that controls the rules and gameplay logic for a game level. It determines the game mode that will be played, the number of players, the win conditions, and other parameters that affect the gameplay.</p>
+<p>A Game Mode Class in blueprints can have its own variables and functions that can be used to manipulate its behavior and attributes. Variables can be created in the Variables tab of the Blueprint Editor and can be of different types, such as integers, floats, booleans, or object references. Functions can be created in the Event Graph tab of the Blueprint Editor and can be used to define custom behavior for the game mode.</p>
+<p>One of the key features of a Game Mode Class is that it can manage the spawning and control of all the actors and pawns in the game level. It can be used to set up various spawn points for characters and objects, and determine which characters and objects are active at any given time.</p>
+<p>A Game Mode Class in blueprints is also responsible for setting up the win and lose conditions for the game. It can determine how many points are required to win, how many lives the player has, and other factors that affect the outcome of the game.</p>
+<p>Overall, a Game Mode Class in blueprints is a fundamental building block of any Unreal Engine game that provides a powerful tool for game developers to control the rules and gameplay logic for a game level. It can be used to create a wide range of gameplay mechanics and interactions, and can be customized to fit the specific needs of a particular game.</p>
