@@ -1,0 +1,7 @@
+# Workshop:  Score & Time Pickup
+
+<p class="speechify-inbox-player" style="text-align: left;"><img style="float: right;" src="https://vertexschool.instructure.com/courses/289/files/18492/preview?verifier=X2z2nwU3cvkdmjiUVlcWv1N2Pi7dWh5Qkr2yDXZ6" alt="Untitled-1-21.png" width="697" height="392" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/289/files/18492" data-api-returntype="File"></p>
+<h3><strong>Workshop: &nbsp;Score &amp; Time Pickup</strong></h3>
+<p>In this lesson, we will explore how to create a score and time system using Unreal Engine Blueprints. By the end of the lesson, you will have the knowledge and tools to implement a scoring mechanism and track time within your game.</p>
+<p>Throughout this lesson, make sure to test your implementation regularly to ensure that the score and time systems function as expected. You can also expand upon these concepts by adding additional features, such as high score tracking, time-based bonuses, or incorporating sound effects and visual feedback.</p>
+<p>By mastering the creation of a score and time system in Unreal Blueprints, you'll be equipped with the skills to enhance the gameplay experience, provide player feedback, and add competitive elements to your games.</p>
