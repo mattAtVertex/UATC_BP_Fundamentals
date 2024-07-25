@@ -1,0 +1,8 @@
+# PlayerController
+
+<h2><strong>PlayerController Class</strong></h2>
+<p data-speechify-highlight="true">In Unreal Engine, a PlayerController Class is a blueprint class that represents the controller for a player in the game. It is responsible for managing player input, camera controls, and other gameplay-related tasks.</p>
+<p>A PlayerController Class in blueprints can have its own variables and functions that can be used to manipulate its behavior and attributes. Variables can be created in the Variables tab of the Blueprint Editor and can be of different types, such as integers, floats, booleans, or object references. Functions can be created in the Event Graph tab of the Blueprint Editor and can be used to define custom behavior for the player controller.</p>
+<p>One of the key features of a PlayerController Class is that it can receive and respond to input from the player, allowing it to control various aspects of the game. Input can be sent through various means, such as keyboard and mouse, gamepad, or touch controls.</p>
+<p>A PlayerController Class in blueprints is also responsible for managing the camera controls for the player. It can be used to set up different camera angles, follow the player character, and adjust the camera position based on player input or other game events.</p>
+<p>Overall, a PlayerController Class in blueprints is a fundamental building block of any Unreal Engine game that focuses on player-controlled gameplay. It provides a powerful tool for game developers to manage player input, camera controls, and other gameplay-related tasks, and can be used to create a wide range of gameplay mechanics and interactions</p>
