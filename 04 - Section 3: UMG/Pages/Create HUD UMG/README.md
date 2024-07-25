@@ -1,0 +1,6 @@
+# Create HUD UMG
+
+<h3><strong><img style="float: right;" src="https://vertexschool.instructure.com/courses/289/files/18496/preview?verifier=fzqMD13o4qNaTA15k3loj0MMDpy7SmcDPn1cfX9b" alt="Untitled-1-30.png" width="693" height="390" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/289/files/18496" data-api-returntype="File">Create HUD UMG</strong></h3>
+<h4><strong>Step 1:</strong> To start off with let's create the widget blueprint navigate to your content browser right click and instead of creating a blueprint actor class let's go to blueprint and look for user interface under the drop-down menu here we should see "widget blueprint". Name it "BPW_HUD_UMG".</h4>
+<h4><strong>Step 2:</strong> Double click on the blueprint widget and open it up. We are going to be met with a new user interface that is similar to the blueprints we have done before. On the left-hand side look for the hierarchy panel, here we want to add a "canvas plane".</h4>
+<h4><strong>Step 3:</strong> Add two text blocks to the canvas panel. One for the score in the top left corner and one for the time in the top right. Use the details to set the text and style. Make sure the text blocks are anchored to the nearest corners.</h4>
