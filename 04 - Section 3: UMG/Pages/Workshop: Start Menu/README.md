@@ -1,0 +1,5 @@
+# Workshop: Start Menu
+
+<p><span><img style="float: right;" src="https://vertexschool.instructure.com/courses/289/files/18510/preview?verifier=wCnY1bn1w0iui4Sh6nLiz1JRprSWh7Sh0J3XnF6R" alt="Untitled-1-48.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/289/files/18510" data-api-returntype="File"></span></p>
+<h3><strong>Workshop: Start Menu</strong></h3>
+<p><span>Creating a Start Menu in Unreal Engine 5 is vital for making a positive first impression, providing easy navigation and customization options, establishing context and immersion, accommodating different game modes, showcasing branding, and maintaining a consistent user experience. A well-designed Start Menu contributes to player engagement, sets the stage for an immersive gameplay experience, and reinforces the game's identity and vision.</span></p>
